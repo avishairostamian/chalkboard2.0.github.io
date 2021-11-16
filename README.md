@@ -1,4 +1,4 @@
-<h2><a href="https://slimslim94.github.io/chalkboard.github.io/source/login.html">Site</a></h2>
+<h2><a href="https://slimslim94.github.io/chalkboard2.0.github.io/chalkboard2.0/webpages/index.html">Chalkboard website</a></h2>
 <h2>Contributors</h2>
 - Sean Ramlall
 , Avishai Rostamian
@@ -41,38 +41,6 @@
 **Admin View wireframe**
 ![Adminview Wireframe](https://slimslim94.github.io/chalkboard.github.io/adminView.jpg)
 
-<!-- HTML -->
-<h2> HTML pages</h2>
-
-**Login page**
-![login Html](https://slimslim94.github.io/chalkboard.github.io/source/login.html)
-
-**signup**
-![signup html](https://slimslim94.github.io/chalkboard.github.io/source/signup.html)
-
-**roster**
-![roster html](https://slimslim94.github.io/chalkboard.github.io/source/roster.html)
-
-**professor** 
-![professor html](https://slimslim94.github.io/chalkboard.github.io/source/professor.html)
-
-**gradelesson**
-![gradelesson html](https://slimslim94.github.io/chalkboard.github.io/source/gradelesson.html)
-
-**admin**
-![admin html](https://slimslim94.github.io/chalkboard.github.io/source/admin.html)
-
-**course**
-![course html](https://slimslim94.github.io/chalkboard.github.io/source/student/course.html)
-
-**dashboard**
-![dashboard html](https://slimslim94.github.io/chalkboard.github.io/source/student/dashboard.html)
-
-**enrollment**
-![enrollment html](https://slimslim94.github.io/chalkboard.github.io/source/student/enrollment.html)
-
-**sumbission**
-![submission html](https://slimslim94.github.io/chalkboard.github.io/source/student/submission.html)
 
 
 
